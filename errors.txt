@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 390: u'with' is not a keyword argument or valid child for the screen statement.
+    with Dissolve 2.0
+        ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Sun Jul 17 15:29:30 2022
