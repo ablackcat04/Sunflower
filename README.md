@@ -1,2 +1,3 @@
 # Sunflower
-avalible at https://ablackcat04.itch.io/sunflower
+Avalible at https://ablackcat04.itch.io/sunflower
+All rights reserved.
